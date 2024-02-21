@@ -1,0 +1,5 @@
+signals := new Map<string, =>>
+funcName := 'a'
+
+if signal := signals.get funcName
+  ;
